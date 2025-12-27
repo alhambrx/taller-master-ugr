@@ -31,11 +31,11 @@
 # ==============================================================================
 # Repository documentation and configuration files
 # These don't affect trainee work, only repository maintenance
-/CODEOWNERS @miguel-oltra
-/MODEL_SPEC.MD @miguel-oltra
-/EVALUATION_CRITERIA.md @miguel-oltra
-/INSTRUCTOR_GUIDE.md @miguel-oltra
-/SUMMARY.md @miguel-oltra
+/CODEOWNERS @alhambrx
+/MODEL_SPEC.MD @alhambrx
+/EVALUATION_CRITERIA.md @alhambrx
+/INSTRUCTOR_GUIDE.md @alhambrx
+/SUMMARY.md @alhambrx
 
 # ==============================================================================
 # EXERCISE BRANCH PROTECTION
@@ -75,7 +75,7 @@
 # Protect the master branch README and exercise content
 # Note: Uses branch-specific path syntax that GitHub recognizes
 [main]
-* @miguel-oltra
+* @alhambrx
 
 # ==============================================================================
 # ALL OTHER BRANCHES ARE OPEN
@@ -123,14 +123,14 @@
 #
 # If you want to create teams for code review automation:
 #
-# @miguel-oltra - Repository owner and lead instructor (required)
+# @alhambrx - Repository owner and lead instructor (required)
 #
 # Optional teams (can be created later):
 # @git-flow-experts - Review branching strategy implementations
 # @security-team - Review security-related changes
 # @governance-team - Review repository policy changes
 #
-# Note: Without these teams, @miguel-oltra will be the only required reviewer.
+# Note: Without these teams, @alhambrx will be the only required reviewer.
 # This is sufficient for the training - teams can be added later if needed.
 #
 # ==============================================================================
